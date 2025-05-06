@@ -24,7 +24,7 @@ interface DataType {
 const Data = [
   {
     id: 1,
-    name: "Burger",
+    name: "Burgery",
   },
   {
     id: 2,
